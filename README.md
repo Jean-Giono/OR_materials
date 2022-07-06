@@ -41,3 +41,8 @@ This repository comprises a list of notions of major importance in OR.
   - Robust Optimization
   
 ## ADVANCED PARALLEL SYSTEM (to be filled)
+
+
+# REFERENCES
+  
+  - **Linear and Nonlinear Programming (Third Edition)** by David G. Luenberger, Yinyu Ye
