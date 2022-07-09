@@ -1,6 +1,16 @@
 # OR_materials
 This repository comprises a list of notions of major importance in OR.
 
+## INTRODUCTION
+  
+  1. Optimization
+  2. Types of problems
+      + 2.1 Linear Programming
+      + 2.2 Unconstrained Problems
+      + 2.3 Constrained Problems
+  3. Size of problems
+  4. Iterative algorithms and convergence
+
 ## OPERATIONS RESEARCH
 
   - [Linear Programming](https://github.com/Jean-Giono/OR_materials/blob/main/Linear%20Programing)
