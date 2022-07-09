@@ -13,8 +13,7 @@ This repository comprises a list of notions of major importance in OR.
 
 ## OPERATIONS RESEARCH
 
-  - [Linear Programming](https://github.com/Jean-Giono/OR_materials/blob/main/Linear%20Programing/){:target="_blank" rel="noopener"}
-  - Dynamic Programming
+  - [Linear Programming](https://github.com/Jean-Giono/OR_materials/blob/main/Linear%20Programing)
   - Mixed Integer Programming (MIP) modelling (see also non-linear MIP)
   - Branch & Bound (BB) complexity (P, NP, Co-NP)
   - Advanced MIP
