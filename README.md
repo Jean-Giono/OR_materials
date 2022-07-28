@@ -44,4 +44,5 @@ This repository comprises a list of notions of major importance in OR.
 
 # REFERENCES
   
+  - The format of this learning is inspired by the [ORCO program](http://orco.imag.fr/Main/Program) from the **University of Grenoble-Alpes**
   - **Linear and Nonlinear Programming (Third Edition)** by David G. Luenberger, Yinyu Ye
